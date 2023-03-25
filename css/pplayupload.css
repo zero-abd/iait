@@ -1,0 +1,82 @@
+.usecolor form input{
+  width: 100%;
+  height: 130px;
+  opacity: 1;
+  background: transparent;
+}
+
+.usecolor form button{
+  width: 100%;
+  height: 50px;
+  opacity: 1;
+  margin: 0;
+  color: #fff;
+  background: #25ca7f;
+  border: none;
+  margin-top: 10px;
+  border-radius: 4px;
+  border-bottom: 4px solid #117A60;
+  transition: all .2s ease;
+  outline: none;
+}
+
+.usecolor form button:hover{
+  background: #21a368;
+  color: #ccffe8;
+}
+.usecolor form button:active{
+  border:0;
+}
+
+
+.file form{
+  position: absolute;
+  width: 40%;
+  height: 130px;
+  border: 4px dashed #fff;
+}
+.file form p{
+  width: 100%;
+  height: 100%;
+  padding-top: 10%;
+  text-align: center;
+  color: #ffffff;
+
+}
+.file form input{
+  position: absolute;
+  width: 100%;
+  height: 130px;
+  outline: none;
+  opacity: 0;
+}
+.file form button{
+  margin: 0;
+  color: #fff;
+  background: #25ca7f;
+  border: none;
+  width: 100%;
+  height: 50px;
+  border-radius: 4px;
+  border-bottom: 4px solid #117A60;
+  transition: all .2s ease;
+  outline: none;
+}
+.file form button:hover{
+  background: #21a368;
+  color: #ccffe8;
+}
+.file form button:active{
+  border:0;
+}
+
+
+
+
+
+
+
+
+
+
+
